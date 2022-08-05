@@ -1,0 +1,3 @@
+¿Cómo iniciar Git Bash en una carpeta especifica?
+
+echo "cd ~/Documentos/Proyectos;" >> ~/.bashrc
